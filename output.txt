@@ -1,0 +1,100 @@
+
+Token Moved to Place 1, using the Resources A, B and Request X
+
+1,0,0,0,0,0,0,0,0,0
+
+Token Moved to Place 2, from Place 1
+
+0,1,0,0,0,0,0,0,0,0
+
+Token Moved to Place 2, from Place 3
+
+0,0,1,0,0,0,0,0,0,0
+
+Token Moved to Place 4, from Place 3 and the Resources A , B is added with tokens
+
+0,0,0,1,0,0,0,0,0,0
+
+Token Moved to Place 5, using the Resources B , C and Request Y
+
+0,0,0,1,1,0,0,0,0,0
+
+Token Moved to Place 6, from Place 5
+
+0,0,0,1,0,1,0,0,0,0
+
+Token Moved to Place 7, from Place 6 and the Resources C , B is added with tokens
+
+0,0,0,1,0,0,1,0,0,0
+
+Token Moved to Place 8, using the Resource C and Request Z
+
+0,0,0,1,0,0,1,1,0,0
+
+Token Moved to Place 9, from Place 8
+
+0,0,0,1,0,0,1,0,1,0
+
+Token Moved to Place 10, from Place 9 and the Resource C is added with tokens
+
+0,0,0,1,0,0,1,0,0,1
+
+Token Moved to Place 1, using the Resources A, B and Request X
+
+1,0,0,1,0,0,1,0,0,1
+
+Token Moved to Place 2, from Place 1
+
+0,1,0,1,0,0,1,0,0,1
+
+Token Moved to Place 2, from Place 3
+
+0,0,1,1,0,0,1,0,0,1
+
+Token Moved to Place 4, from Place 3 and the Resources A , B is added with tokens
+
+0,0,0,2,0,0,1,0,0,1
+
+Token Moved to Place 5, using the Resources B , C and Request Y
+
+0,0,0,2,1,0,1,0,0,1
+
+Token Moved to Place 6, from Place 5
+
+0,0,0,2,0,1,1,0,0,1
+
+Token Moved to Place 7, from Place 6 and the Resources C , B is added with tokens
+
+0,0,0,2,0,0,2,0,0,1
+
+Token Moved to Place 1, using the Resources A, B and Request X
+
+1,0,0,2,0,0,2,0,0,1
+
+Token Moved to Place 2, from Place 1
+
+0,1,0,2,0,0,2,0,0,1
+
+Token Moved to Place 2, from Place 3
+
+0,0,1,2,0,0,2,0,0,1
+
+Token Moved to Place 4, from Place 3 and the Resources A , B is added with tokens
+
+0,0,0,3,0,0,2,0,0,1
+
+Token Moved to Place 1, using the Resources A, B and Request X
+
+1,0,0,3,0,0,2,0,0,1
+
+Token Moved to Place 2, from Place 1
+
+0,1,0,3,0,0,2,0,0,1
+
+Token Moved to Place 2, from Place 3
+
+0,0,1,3,0,0,2,0,0,1
+
+Token Moved to Place 4, from Place 3 and the Resources A , B is added with tokens
+
+0,0,0,4,0,0,2,0,0,1
